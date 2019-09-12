@@ -45,9 +45,9 @@ For those of you who are advanced, we can start to look at setting up your envir
 If there is demand, we will include some documentation on this. Please discuss this on Slack.
 
 Further reading:
-[https://www.docker.com/](https://www.docker.com/)
-[https://towardsdatascience.com/learn-enough-docker-to-be-useful-b7ba70caeb4b](https://towardsdatascience.com/learn-enough-docker-to-be-useful-b7ba70caeb4b)
-[https://opensource.com/resources/what-docker](https://opensource.com/resources/what-docker)
+- [https://www.docker.com/](https://www.docker.com/)
+- [https://towardsdatascience.com/learn-enough-docker-to-be-useful-b7ba70caeb4b](https://towardsdatascience.com/learn-enough-docker-to-be-useful-b7ba70caeb4b)
+- [https://opensource.com/resources/what-docker](https://opensource.com/resources/what-docker)
 
 ---
 ## This document is work in progress. This will be updated as we make progress.
