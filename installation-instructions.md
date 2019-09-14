@@ -11,7 +11,7 @@ We will be installing the following software:
 - Docker
 - Postman
 
-**Mac Users*
+**Mac Users**
 - Homebrew
 
 **Windows Users**
