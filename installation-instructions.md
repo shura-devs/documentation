@@ -81,4 +81,3 @@ Add the following plugins and extras via the plugins window in vscode:
 Formating code on save can be done via vscode settings. You can find this by searching Google.
 
 10. Install Postman: [https://www.getpostman.com/downloads/](https://www.getpostman.com/downloads/)
-- 
