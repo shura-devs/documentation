@@ -4,7 +4,9 @@ We will be installing the following software:
 
 **All Users**
 - Python3.7
+- Pytest
 - Nodejs
+- Jest
 - Git
 - Visual Studio Code
 - Visual Studio Code plugins
@@ -41,13 +43,15 @@ Verify by running `brew -v` and this should give the version of Homebrew printed
 
 Verify by running `python3.7 --version` and `pip3.7 --version`. Both commands should not crash and should not print "Not found" on the terminal screen.
 
-4. Run the following command to install Nodejs and Npm (paste into your Mac Terminal and press enter):
+4. Run the following commands to install Nodejs, Npm and Jest (paste into your Mac Terminal and press enter):
 
 `brew install node`
 
 Verity by running `node -v` and `npm -v`. Both should print out their respective version numbers.
 
 Now you can run all the above commands from any directory inside your terminal
+
+Then run: `npm install --save-dev jest` (This gives you the ability to run automated tests)
 
 5. Install Docker by going to this link here: [https://docs.docker.com/docker-for-mac/install/](https://docs.docker.com/docker-for-mac/install/)
 
@@ -59,9 +63,13 @@ Now you should be able to navigate to a folder in your Terminal and type `code .
 
 `pip3.7 install pylint`
 
-8. Install Git using the instructions on this link: [https://git-scm.com/book/en/v2/Getting-Started-Installing-Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
+8. Run the following command to install pytest:
 
-9. Visual Studio Code Plugins + Extras
+`pip3.7 install -U pytest`
+
+9. Install Git using the instructions on this link: [https://git-scm.com/book/en/v2/Getting-Started-Installing-Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
+
+10. Visual Studio Code Plugins + Extras
 
 Add the following plugins and extras via the plugins window in vscode:
 
@@ -80,4 +88,4 @@ Add the following plugins and extras via the plugins window in vscode:
 
 Formating code on save can be done via vscode settings. You can find this by searching Google.
 
-10. Install Postman: [https://www.getpostman.com/downloads/](https://www.getpostman.com/downloads/)
+11. Install Postman: [https://www.getpostman.com/downloads/](https://www.getpostman.com/downloads/)
